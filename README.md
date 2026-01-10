@@ -21,6 +21,7 @@ I like converting ideas into practical applications and continuously learning ne
 ## 🔗 Connect with me:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/harsh-kumar-sah-412ba5294/)
 [![GitHub](https://img.shields.io/badge/GitHub-black?logo=github)](https://github.com/Harshkumarsah2005)
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?logo=instagram&logoColor=white)](https://www.instagram.com/harsh_sah_19/)
 
 ---
 
