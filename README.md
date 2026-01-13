@@ -30,6 +30,8 @@ I like converting ideas into practical applications and continuously learning ne
 ### 👨‍💻 Languages
 ![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white)
 ![Java](https://img.shields.io/badge/Java-red?logo=java)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?logo=mysql&logoColor=white)
+![Power BI](https://img.shields.io/badge/Power%20BI-F2C811?logo=powerbi&logoColor=black)
 
 ### 📊 Data Science & ML
 ![Pandas](https://img.shields.io/badge/Pandas-150458?logo=pandas)
