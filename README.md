@@ -49,7 +49,8 @@ I like converting ideas into practical applications and continuously learning ne
 - 🔹 **Fake News Prediction** – ML classification project  
 - 🔹 **Rock vs Mine Classification** – Sonar data ML model  
 - 🔹 **Email News API App** – Automated email updates  
-- 🔹 **To-Do App** – Streamlit based web app  
+- 🔹 **To-Do App** – Streamlit based web app
+- 🔹 eBook Analysis using Python & NLP – PDF text extraction, regex-based preprocessing, sentiment analysis (NLTK VADER), and data visualization
 
 ---
 
