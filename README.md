@@ -50,7 +50,7 @@ I like converting ideas into practical applications and continuously learning ne
 - 🔹 **Rock vs Mine Classification** – Sonar data ML model  
 - 🔹 **Email News API App** – Automated email updates  
 - 🔹 **To-Do App** – Streamlit based web app
-- 🔹 eBook Analysis using Python & NLP – PDF text extraction, regex-based preprocessing, sentiment analysis (NLTK VADER), and data visualization
+- 🔹 **eBook Analysis using Python & NLP** – PDF text extraction, regex-based preprocessing, sentiment analysis (NLTK VADER), and data visualization
 
 ---
 
